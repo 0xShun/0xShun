@@ -5,7 +5,7 @@
 
 I am an **Information Technology student** in my first year at Eastern Visayas State University in Tacloban City. When I'm not doing schoolwork, I'm learning and practicing i.t topics like *programming*, *networking engineering*, *databases*, *operating systems*, *UI/UX design*, and so on.
 
-In addition, I participate in cybersecurity challenges and exercises on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/5h_df1r)  
+In addition, I participate in cybersecurity challenges and exercises on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
 ### What I'm doing currently
 I'm currently preparing for the Security+ and CCNA exams. After passing the aforementioned exams, I intend to take the CompTIA CySA+ and EC-Council Computer Hacking Forensic Investigator exams.
