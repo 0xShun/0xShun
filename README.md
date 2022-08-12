@@ -21,4 +21,4 @@ I'm currently preparing for the Security+ and CCNA exams. After passing the afor
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xM1cx&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Visitor Count](https://profile-counter.glitch.me/{_m1cx_}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{0xM1cx}/count.svg)
