@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B91A9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Information+Technology+Student;)](https://git.io/typing-svg)
 
-I am an **Information Technology student** in my second year at Eastern Visayas State University in Tacloban City. When I'm not doing acads, I'm learning and practicing i.t topics like *programming*, *networking engineering*, *databases*, *operating systems*, and so on. My research focus/areas of interest are in *Web Security*, *Network Security*, *Digial Forensics*, *Reverse Engineering*, *Back-end Development*
+I am an **Information Technology student** in my second year at Eastern Visayas State University in Tacloban City. When I'm not doing acads, I'm learning and practicing i.t topics like *programming*, *networking engineering*, *databases*, *operating systems*, and so on. My research focus/areas of interest are in *Web Security*, *Network Security*, *Digial Forensics*, *Reverse Engineering*, and *Back-end Development*
 
 In addition, I participate in cybersecurity CTFs and exercises on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
