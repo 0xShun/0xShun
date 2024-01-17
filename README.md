@@ -6,8 +6,8 @@ I am a second-year student deeply passionate about becoming a Digital Forensics 
 
 In addition, I participate in cybersecurity CTFs and exercises on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
-### What I'm doing currently
-I'm currently preparing for the Security+ and CCNA exams. After passing the aforementioned exams, I intend to take the CompTIA CySA+ and EC-Council Computer Hacking Forensic Investigator exams.
+### What I'm doing currently and some plans
+I'm currently prepping for the Security+ and CCNA exams, and once I nail those, I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise.
   
   ### Socials 💬
   <a href="mailto:shawnmichaelsudaria14@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-shawnmichaelsudaria14%40proton.me-505264?style=for-the-badge&logo=protonmail&labelColor=505264" alt="ProtonMail" /></a> <a href="https://twitter.com/_m1cx_"><img src="https://img.shields.io/badge/TWITTER-%40__m1cx__-1DA1F2?style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=white" alt="Twitter Handle"/></a>
