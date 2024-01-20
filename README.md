@@ -20,4 +20,5 @@ I'm currently prepping for the Security+ and CCNA exams, and once I nail those, 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xM1cx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Visitor Count
  ![Visitor Count](https://profile-counter.glitch.me/{0xM1cx}/count.svg)
