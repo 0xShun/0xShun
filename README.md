@@ -4,6 +4,8 @@
 
 I am a second-year student deeply passionate about becoming a Digital Forensics and Incident Response (DFIR) analyst and Information Security Engineer. Driven by an insatiable curiosity for unraveling the intricate workings of systems, I explore the realms of Digital Forensics, IoT Security, Financial Technology, Threat Intelligence, and Embedded Systems. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them. I look forward to a successful career in Information Security.
 
+> **Areas of Interest:** IT research, Cybersecurity, Embedded Systems, IoT Research, Data Analysis
+
 In addition, I participate in cybersecurity CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
 ### What I'm doing currently and some plans
