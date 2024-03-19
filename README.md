@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B91A9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
 
-I am a second-year student deeply passionate about becoming a Digital Forensics and Incident Response (DFIR) analyst and Information Security Engineer. Driven by an insatiable curiosity for unraveling the intricate workings of systems, I explore the realms of Digital Forensics, IoT Security, Financial Technology, Threat Intelligence, and Embedded Systems. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them. I look forward to a successful career in Information Security.
+I am a second-year student deeply passionate about becoming a Digital Forensics and Incident Response (DFIR) analyst. Driven by an insatiable curiosity for unraveling the intricate workings of systems, I explore the realms of Digital Forensics, IoT Security, Game Development and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
 
-> **Areas of Interest:** IT research, Cybersecurity, Embedded Systems, IoT Research, Data Analysis
+> **Areas of Interest:** IT research, Cybersecurity, Embedded Systems, Game Dev
 
 In addition, I participate in cybersecurity CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/), [BlueTeamLabs.Online](https://blueteamlabs.online/), [LetsDefend](https://letsdefend.io/), and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
 ### What I'm doing currently and some plans
-I'm currently prepping for the Security+ and CCNA exams, and once I nail those, I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise.
+I'm currently prepping for the Security+ and CCNA exams, and once I nail those, I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise. I do game dev every now and then specifically 2d games using Godot.
   
   ### Socials 💬
   <a href="mailto:shawnmichaelsudaria14@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-shawnmichaelsudaria14%40proton.me-505264?style=for-the-badge&logo=protonmail&labelColor=505264" alt="ProtonMail" /></a> <a href="https://twitter.com/_m1cx_"><img src="https://img.shields.io/badge/TWITTER-%40__m1cx__-1DA1F2?style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=white" alt="Twitter Handle"/></a>
