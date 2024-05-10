@@ -1,6 +1,6 @@
 # Hi 👋🏼 I'm Shawn
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1B91A9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0056c9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
 
 I'm an undergrad student who is passionate about tech. Driven by an insatiable curiosity for unraveling the intricate workings of systems, I explore the realms of Digital Forensics, IoT Security, Game Development and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
 
