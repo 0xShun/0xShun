@@ -24,9 +24,6 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
 </p>
 
 
-
-
-
  
  ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight)
