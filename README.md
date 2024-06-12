@@ -23,8 +23,11 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
 
  
  ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight)
+ <p align="center">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xM1cx&show_icons=true&theme=tokyonight) -->
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xM1cx&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@m1cx's github-readme-stats"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xM1cx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 
 ### Visitor Count
  ![Visitor Count](https://profile-counter.glitch.me/{0xM1cx}/count.svg)
