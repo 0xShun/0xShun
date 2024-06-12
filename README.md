@@ -37,6 +37,4 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
  
 
 ### Visitor Count
-<p style="color: #0056c9">
-</p>
 ![Visitor Count](https://profile-counter.glitch.me/{0xM1cx}/count.svg) 
