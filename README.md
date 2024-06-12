@@ -40,3 +40,5 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{0xM1cx}/count.svg" alt="0xM1cx :: Visitor's Count" /></a>
 </p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
