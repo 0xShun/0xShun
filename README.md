@@ -37,4 +37,6 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
  
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{0xM1cx}/count.svg) 
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{0xM1cx}/count.svg" alt="0xM1cx :: Visitor's Count" /></a>
+</p>
