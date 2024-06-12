@@ -31,7 +31,7 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
 ### Some Tools I've Used 🛠️ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps&perline=5" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps&perline=10" />
   </a>
 </p>
 
