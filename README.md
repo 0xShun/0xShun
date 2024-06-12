@@ -13,10 +13,10 @@ I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the Comp
   <a href="mailto:shawnmichaelsudaria14@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-shawnmichaelsudaria14%40proton.me-505264?style=for-the-badge&logo=protonmail&labelColor=505264" alt="ProtonMail" /></a> <a href="https://twitter.com/_m1cx_"><img src="https://img.shields.io/badge/TWITTER-%40__m1cx__-1DA1F2?style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=white" alt="Twitter Handle"/></a>
   <a href="mailto:shawnmichaelsudaria14gmail.com"><img src="https://img.shields.io/badge/GMAIL-shawnmichaelsudaria14%40gmail.com-17cf91?style=for-the-badge&logo=Microsoft+outlook&labelColor=17cf91" alt="GMAIL"/></a> <a href="https://www.linkedin.com/in/shawn-michael-sudaria/"><img src="https://img.shields.io/badge/LinkedIn-shawn%20michael%20sudaria-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn"/></a> <a href="https://www.instagram.com/shun_micx/"><img src="https://img.shields.io/badge/INSTAGRAM-%40__m1cx__-4c68d7?style=for-the-badge&logo=instagram&labelColor=4c68d7" /></a>
 
-### Tools I've Used 🛠️ 
+### Some Tools I've Used 🛠️ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps&perline=10" />
   </a>
 </p>
 
