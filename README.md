@@ -2,6 +2,7 @@
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
 />
+
 # Hi 👋🏼 I'm Shawn
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0056c9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
