@@ -33,7 +33,7 @@ In the future, I hope to work on any of the following roles:
   
 - ⚡ <a href="https://www.linkedin.com/in/shawn-michael-sudaria-397a33319/">LinkedIn</a>
 
-- 👾 <a href="https://www.instagram.com/shun_micx/">Instagram</a>
+- 👾 <a href="https://www.instagram.com/_shun.io/">Instagram</a>
 
 </td></tr></table>  
 
