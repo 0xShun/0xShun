@@ -13,14 +13,6 @@ Played some CTFs and practice labs on platforms such as [Cyberdefenders](https:/
 
 ### What I'm doing currently and some plan
 I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise. I do game dev every now and then, specifically 2d games using Godot. Contact me if you wanna make a game together 😁 
-
-In the future, I hope to work on any of the following roles:
-1. DFIR
-2. Data Analyst
-3. Data Scientist
-4. Threat Researcher
-5. SOC Analyst
-6. Malware Analyst
   
   ### Socials 💬
   <table><tr><td valign="top" width="100%">
