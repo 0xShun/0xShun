@@ -5,7 +5,7 @@
 
 # Hi 👋🏼 I'm Shun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0056c9&lines=Novice+Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Network+Engineer;Electronics+Nerd;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0056c9&lines=Security+Researcher;Software+Engineer;DFIR+Aspirant;Python+Developer;Electronics+Nerd;)](https://git.io/typing-svg)
 
 🗨️ I'm an undergrad student who is passionate about tech and curious on how systems work. Focusing on  Digital Forensics, IoT, Data Analysis, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them.
 
