@@ -11,7 +11,7 @@
 
 Played some CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/p/m1cx), [BlueTeamLabs.Online](https://blueteamlabs.online/public/user/aea03fbb77f37ab350c70b), [LetsDefend](https://app.letsdefend.io/user/shun), [TryHackMe](https://tryhackme.com/p/5hun) and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
 
-### What I'm doing currently and some plan
+### What I'm doing currently and some plans
 I'm currently prepping for the Security+ and CCNA exams then I'm eyeing the CompTIA CySA+ and GIAC Cyber Threat Intelligence (GCTI) ones. Post-college, I'm jumping into a master's program to deepen my expertise. I do game dev every now and then, specifically 2d games using Godot. Contact me if you wanna make a game together 😁 
   
   ### Socials 💬
