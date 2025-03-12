@@ -9,7 +9,7 @@
 
 
 
-🗨️ I'm currently an undergrad student who is passionate about tech and curious on how systems work. Focusing on  Digital Forensics, IoT, Data Science, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them. 
+🗨️ I'm currently a 3rd year(S.Y. 2024-2025) undergrad student who is passionate about tech and curious on how systems work. Focusing on  Digital Forensics, IoT, Data Science, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them. 
 
 📌 I'm currently looking for other researchers who are interested in collaborating on a research project. Contact me if you'd like to publish something together :>
 
