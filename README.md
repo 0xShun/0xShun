@@ -9,9 +9,9 @@
 
 
 
-🗨️ I'm currently a 3rd year(S.Y. 2024-2025) undergrad student who is passionate about tech and curious on how systems work. Focusing on  Digital Forensics, IoT, Data Science, Reverse Engineering and Threat Intelligence. My academic journey in the College of Engineering includes hands-on projects reflecting my commitment to understanding systems and developing them. 
+🗨️ An undergrad student who is passionate about tech and curious on how systems work. Focusing on  Data Science, Data Engineering, Reverse Engineering and Threat Intelligence. 
 
-📌 I'm currently looking for other researchers who are interested in collaborating on a research project. Contact me if you'd like to publish something together :>
+📌 LF other nerds who are interested in collaborating on a research project or software project. Contact me if you'd like to publish/build something together :>
 
 🎮 Played some CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/p/m1cx), [BlueTeamLabs.Online](https://blueteamlabs.online/public/user/aea03fbb77f37ab350c70b), [LetsDefend](https://app.letsdefend.io/user/shun), [TryHackMe](https://tryhackme.com/p/5hun) and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
   
@@ -26,14 +26,14 @@
   
 - ⚡ <a href="https://www.linkedin.com/in/shawn-michael-sudaria-397a33319/">LinkedIn</a>
 
-- 👾 <a href="https://www.instagram.com/_shun.io/">Instagram</a>
+- 👾 <a href="https://www.instagram.com/shone_ayo/">Instagram</a>
 
 </td></tr></table>  
 
 ### Some Tools I've Used 🛠️ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,powerbi,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,burpsuite,ps,gcp&perline=10" />
   </a>
 </p>
 
