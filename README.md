@@ -5,7 +5,7 @@
 
 # Hi! 👋🏼 I'm Shun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0056c9&lines=Data+Analyst;Security+Researcher;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Data+Analyst;Security+Researcher;Software+Engineer)](https://git.io/typing-svg)
 
 
 
@@ -16,7 +16,6 @@
 🎮 Played some CTFs and practice labs on platforms such as [Cyberdefenders](https://cyberdefenders.org/p/m1cx), [BlueTeamLabs.Online](https://blueteamlabs.online/public/user/aea03fbb77f37ab350c70b), [LetsDefend](https://app.letsdefend.io/user/shun), [TryHackMe](https://tryhackme.com/p/5hun) and others. My profiles on said platforms can be found here: [Profiles](https://linktr.ee/m1cx)  
   
   ### Socials 💬
-  <table><tr><td valign="top" width="100%">
 
 - 💬 <a href="mailto:shawnmichaelsudaria@proton.me">Protonmail</a> 
   
@@ -28,7 +27,7 @@
 
 - 👾 <a href="https://www.instagram.com/shone_ayo/">Instagram</a>
 
-</td></tr></table>  
+
 
 ### Some Tools I've Used 🛠️ 
 <p align="center">
