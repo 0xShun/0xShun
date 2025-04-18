@@ -32,7 +32,7 @@
 ### Some Tools I've Used 🛠️ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,latex,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,ps,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=atom,bootstrap,git,py,c,cs,debian,discord,docker,fastapi,figma,flask,heroku,html,css,kali,obsidian,qt,r,regex,tailwind,ts,ubuntu,visualstudio,wordpress,cpp,neovim,arduino,vscode,bash,django,godot,linux,mysql,php,powershell,raspberrypi,windows,ps,gcp&perline=10" />
   </a>
 </p>
 
