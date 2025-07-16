@@ -5,7 +5,7 @@
 
 # Hi! 👋🏼 I'm Shun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Data+Analyst;Security+Researcher;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00d4db&lines=Data+Engineer;Data+Analyst;Security+Researcher;Software+Engineer)](https://git.io/typing-svg)
 
 
 
