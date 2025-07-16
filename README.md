@@ -9,7 +9,7 @@
 
 
 
-🗨️ An undergrad student who is passionate about tech and curious on how systems work. Focusing on  Data Science, Data Engineering, Reverse Engineering and Threat Intelligence. 
+🗨️ An undergrad student who is passionate about tech and curious on how systems work. Focusing on  Data Analytcs, Data Engineering, Reverse Engineering and Threat Intelligence. 
 
 📌 LF other nerds who are interested in collaborating on a research project or software project. Contact me if you'd like to discover something together :>
 
